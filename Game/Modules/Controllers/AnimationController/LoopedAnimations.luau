@@ -1,5 +1,0 @@
-return {
-	"Sprinting",
-	"Walking",
-	"Idle"
-}
