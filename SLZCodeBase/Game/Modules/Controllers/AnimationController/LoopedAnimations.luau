@@ -1,0 +1,5 @@
+return {
+	"Sprinting",
+	"Walking",
+	"Idle"
+}
